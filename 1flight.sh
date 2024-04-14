@@ -1,11 +1,11 @@
-#!/bin/bash
 
+#!/bin/bash
 # Daftar host yang ingin Anda cek
 hosts=(
-    'http://104.18.49.163/'
-    'http://cvs-deo.shopeemobile.com/'
-    'http://play.spotify.com/'
-	'104.18.53.172'
+	'http://104.18.49.163/'
+	'http://cvs-deo.shopeemobile.com/'
+	'http://play.spotify.com/'
+	'http://104.18.53.172'
 )
 
 while true; do
